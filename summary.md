@@ -8,6 +8,12 @@
     * EPMD / Scarflord-isan
     * Testing the cluster
 
+# Project
+* link shortener
+* single instance
+  * uniqueness guaranteee
+ * multiple instances
+
 # Summary
 
 # Resources
