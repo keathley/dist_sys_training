@@ -3,6 +3,7 @@
 ## Features
 * Return unique, shortened URL
 * increment count for each time shortened URL is visited
+* System-wide Genserver that reports some frequency of most-visited links
 * System-wide Genserver that culls links that haven't been used in x amount of time (or something else)
 
 ## Project Progression
