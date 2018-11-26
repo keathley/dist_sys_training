@@ -1,4 +1,4 @@
-# URL Shortener (come up with clever name)
+# URL Shortener (Snip!)
 
 ## Features
 * Return unique, shortened URL
